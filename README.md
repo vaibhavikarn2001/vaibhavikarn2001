@@ -6,7 +6,7 @@
 -  
 - 
 -<span> <h3 style="color:red;">7th grade student studying at Carmel School, Bokaro Thermal.<img  style="width:150px;
-  height:150px;" src="https://i.pinimg.com/564x/ce/1a/0f/ce1a0f54dadca6865bee2164f47fcaf6.jpg"></h3></span>
+  height:150px;" src="http://marketing.hedgegroup.ug/wp-content/uploads/2019/10/Untitled-design-_3_-1-2.gif"></h3></span>
 
 
 <!---
