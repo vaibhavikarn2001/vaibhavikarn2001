@@ -5,8 +5,8 @@
 
 -  
 - 
--<span> <h3 style=" float:left color:red;"></h3>7th grade student studying at Carmel School, Bokaro Thermal.<img  style="width:50px;
-  height:50px;" src="http://marketing.hedgegroup.ug/wp-content/uploads/2019/10/Untitled-design-_3_-1-2.gif">></span>
+-<span> <h3 style="float:left color:red;"></h3>7th grade student studying at Carmel School, Bokaro Thermal.<img  style="width:50px;
+  height:50px;" src="https://resizeimage.net/mypic/ETblZJXzZXbaM7gF/kHM7M/untitled-design-_3_-1-2.gif"></span>
 
 
 <!---
