@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vaibhavi Karn 
 - 👀 I’m interested in coding,dancing and drawing...
-- 🤓A student of <a href="whitehatjr.com">Whitehat Jr</a>
+- 🤓A student of <a href="code.whitehatjr.com">Whitehat Jr</a>
 - 🌱[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=I+am+currently+learning+The+Builder-HTML;the+artist-CSS+AND+the+wizard-JS!)](https://git.io/typing-svg)
 
 -  
