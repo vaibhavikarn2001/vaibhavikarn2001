@@ -1,15 +1,15 @@
 - 👋 Hi, I’m Vaibhavi Karn 
 - 👀 I’m interested in coding,dancing and drawing...
 - I am a student of Carmel school .
-I have been living on planet 🌎 since 2009.
+- I have been living on planet 🌎 since 2009.
 
 - 🤓A student of <a href="code.whitehatjr.com">Whitehat Jr</a>
 - [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=🌱I+am+currently+learning+The+Builder-HTML;the+artist-CSS+AND+the+wizard-JS!)](https://git.io/typing-svg)
 -<span> <h3 style="float:left color:red;"></h3>7th grade student studying at Carmel School, Bokaro Thermal.<img src=https://user-images.githubusercontent.com/76275888/130910598-7eb96f7a-1428-4877-8004-516ce75c7791.gif></span>
 
-100+ Projects Completed
-250+ hours spent on HTML
-150+ hours spent on JS
+- <h3>100+ Projects Completed</h2>
+- <h3>250+ hours spent on HTML<h2>
+- <h3>150+ hours spent on JS <h3>
 
 
 
