@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Vaibhavi Karn 
 - 👀 I’m interested in coding,dancing and drawing...
 - I am a student of Carmel school .
+- Advanced Web Developer(Well, Junior!!)
 - I have been living on planet 🌎 since 2009.
 
 - 🤓A student of <a href="code.whitehatjr.com">Whitehat Jr</a>
