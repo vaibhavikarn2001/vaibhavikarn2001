@@ -1,3 +1,4 @@
+![132226800-a0de15c7-b07e-4e5d-a](https://user-images.githubusercontent.com/76275888/132228148-6eb6369b-650c-4687-b5eb-b836e5355222.gif)
 -  Hello Folks 👋, I’m Vaibhavi Karn 
 - 👀 I’m interested in coding,dancing and drawing...
 - I am a student of Carmel school .
@@ -6,7 +7,8 @@
 
 - 🤓A student of <a href="code.whitehatjr.com">Whitehat Jr</a>
 - [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=🌱I+am+currently+learning+The+Builder-HTML;the+artist-CSS+AND+the+wizard-JS!)](https://git.io/typing-svg)
--<span> <h3 style="float:left color:red;"></h3>7th grade student studying at Carmel School, Bokaro Thermal.<img src=https://user-images.githubusercontent.com/76275888/130910598-7eb96f7a-1428-4877-8004-516ce75c7791.gif></span>
+-<span> <h3 style="float:left color:red;"></h3>7th grade student studying at Carmel School, Bokaro Thermal.
+  
 - 
 - <h3>100+ Projects Completed</h2>
 - <h3>250+ hours spent on HTML<h2>
