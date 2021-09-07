@@ -1,8 +1,8 @@
 ![132226800-a0de15c7-b07e-4e5d-a](https://user-images.githubusercontent.com/76275888/132228148-6eb6369b-650c-4687-b5eb-b836e5355222.gif)
 -  Hello Folks 👋, I’m Vaibhavi Karn 
 - 👀 I’m interested in coding,dancing and drawing...
-- I am a student of Carmel school .
-- Advanced Web Developer(Well, Junior!!)
+- 🙂I am a student of Carmel school .
+- 👩‍💻Advanced Web Developer(Well, Junior!!)
 - I have learnt a programming language-Javascript and just started with Python basics.
 - I have been living on planet 🌎 since 2009.
 
