@@ -11,8 +11,8 @@
 -<span> <h3 style="float:left color:red;"></h3>7th grade student studying at Carmel School, Bokaro Thermal.
   
 - 
-- <h3>100+ Projects Completed</h2>
-- <h3>250+ hours spent on HTML<h2>
+- <h3>100+ Projects Completed</h3>
+- <h3>250+ hours spent on HTML<h3>
 - <h3>150+ hours spent on JS <h3>
 
 
