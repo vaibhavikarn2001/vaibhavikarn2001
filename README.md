@@ -4,8 +4,8 @@
 - 🙂I am a student of Carmel school .
 - 👩‍💻Advanced Web Developer(Well, Junior!!)
 - I have learnt a programming language-Javascript and just started with Python basics.
-- I have been living on planet 🌎 since 2009.
-
+- 👧I have been living on planet 🌎 since 2009.
+- 💻Currently learning the concepts of Neural Networks to build high quality apps using ML5 and P5.
 - 🤓A student of <a href="code.whitehatjr.com">Whitehat Jr</a>
 - [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=🌱I+am+currently+learning+The+Builder-HTML;the+artist-CSS+AND+the+wizard-JS!)](https://git.io/typing-svg)
 -<span> <h3 style="float:left color:red;"></h3>7th grade student studying at Carmel School, Bokaro Thermal.
