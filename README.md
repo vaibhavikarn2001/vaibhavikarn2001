@@ -1,5 +1,6 @@
+
 ![132226800-a0de15c7-b07e-4e5d-a](https://user-images.githubusercontent.com/76275888/132228148-6eb6369b-650c-4687-b5eb-b836e5355222.gif)
--  Hello Folks 👋, I’m Vaibhavi Karn 
+-  Hello Folks !![Webp net-resizeimage (1)](https://user-images.githubusercontent.com/76275888/133029604-3f2361a1-ab8a-479e-b51a-289321eb2d59.gif), I’m Vaibhavi Karn 
 - 👀 I’m interested in coding,dancing and drawing...
 - 🙂I am a student of Carmel school .
 - 👩‍💻Advanced Web Developer(Well, Junior!!)
