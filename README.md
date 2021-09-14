@@ -4,7 +4,7 @@
 - 👀 I’m interested in coding,dancing and drawing...
 - 🙂I am a student of Carmel school .
 - 👩‍💻Advanced Web Developer(Well, Junior!!)
-- I have learnt a programming language-Javascript and just started with Python basics.
+- I have learnt a programming language-Javascript and just started with  Python basics at Sololearn
 - 👧I have been living on planet 🌎 since 2009.
 - 💻Currently learning the concepts of Neural Networks to build high quality apps using ML5 and P5.
 - 🤓A student of <a href="code.whitehatjr.com">Whitehat Jr</a>.Yes!!Since Júńé 2020.
