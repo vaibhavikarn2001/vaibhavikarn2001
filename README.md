@@ -2,7 +2,7 @@
 ![132226800-a0de15c7-b07e-4e5d-a](https://user-images.githubusercontent.com/76275888/132228148-6eb6369b-650c-4687-b5eb-b836e5355222.gif)
 -  !![Webp net-resizeimage (1)](https://user-images.githubusercontent.com/76275888/133029604-3f2361a1-ab8a-479e-b51a-289321eb2d59.gif) Hello Folks , I’m Vaibhavi Karn 
 - 👀 I’m interested in coding,dancing and drawing...
-- 🙂I am a 7th grade  student of Carmel school .
+- 🙂I am a 7th grade  student of Carmel school , BokaroThermal.
 - 👩‍💻Advanced Web Developer(Well, Junior!!)
 - I have learnt a programming language-Javascript and just started with  Python basics at Sololearn
 - 👧I have been living on planet 🌎 since 2009.
