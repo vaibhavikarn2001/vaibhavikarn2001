@@ -8,8 +8,7 @@
 - 👧I have been living on planet 🌎 since 2009.
 - I spend most of the time designing the UI.I am better at it than debugging😅😅
 - 💻Currently learning the concepts of Neural Networks [AI and ML using js libraries(posenet,mobile net and APIs).
-- 🤓A student of <a href='code.whitehatjr.com'>Whitehat Jr</a>.Yes!!Since Júńé 2020 !!
-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=🌱I+am+currently+learning+The+Builder-HTML;the+artist-CSS+AND+the+wizard-JS!)](https://git.io/typing-svg)
+- 🤓A student of <a href='code.whitehatjr.com'>Whitehat Jr</a>.Yes!!Since Júńé 2020 !! 
 - <h3>100+ Projects Completed</h3>
 - <h3>250+ hours spent on HTML<h3>
 - <h3>150+ hours spent on JS <h3>
