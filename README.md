@@ -6,7 +6,7 @@
 - 👩‍💻Advanced Web Developer(Well, Junior!!)
 - I have learnt a programming language-Javascript and just started with  Python basics at Sololearn
 - 👧I have been living on planet 🌎 since 2009.
-- I spend most of the time designing the UI.I am better at it than debugging😅😅
+- I prefer working on designing rather than developing
 - 💻Currently learning the concepts of Neural Networks [AI and ML using js libraries(posenet,mobile net and APIs).
 - 🤓A student of <a href='code.whitehatjr.com'>Whitehat Jr</a>.Yes!!Since Júńé 2020 !! 
 - <h3>100+ Projects Completed</h3>
