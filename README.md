@@ -8,7 +8,7 @@
 - 👧I have been living on planet 🌎 since 2009.
 - I prefer working on designing rather than developing
 - 💻Currently learning the concepts of Neural Networks [AI and ML using js libraries(posenet,mobile net and APIs).
-- 🤓A student of <a href='code.whitehatjr.com'>Whitehat Jr</a>.Yes!!Since Júńé 2020 !! 
+- 🤓 Certified by White hat Jr.(Course done for 1 1/2 years.)
 - <h3>100+ Projects Completed</h3>
 - <h3>250+ hours spent on HTML<h3>
 - <h3>150+ hours spent on JS <h3>
