@@ -3,7 +3,7 @@
 - 👀 I’m interested in coding,dancing and drawing...
 - 🙂I am an 8th grade  student of Carmel school , BokaroThermal.
 - 👩‍💻Advanced Web Developer(Well, Junior!!)
-- I have learnt a programming language-Javascript and just started with  Python basics at Sololearn
+- Trying my hand at Java💻
 - 👧I have been living on planet 🌎 since 2009
 - 💻Currently learning the concepts of Neural Networks [AI and ML using js libraries(posenet,mobile net and APIs).
 - 🤓 Certified by White hat Jr.(Course done for 1 1/2 years.)
