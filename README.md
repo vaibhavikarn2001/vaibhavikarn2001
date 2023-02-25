@@ -1,6 +1,7 @@
 
 ![Vaibhavi Karn (1)](https://user-images.githubusercontent.com/76275888/220714149-126d0898-47c5-46aa-9a58-f39dd1a01157.gif)
- Hello Folks , I’m <a href="https://vaibhavikarn2001.github.io/Portfolio-Websiteee/">Vaibhavi Karn </a>
+
+- Hello Folks , I’m <a href="https://vaibhavikarn2001.github.io/Portfolio-Websiteee/">Vaibhavi Karn </a>
 -  👧I have been living on planet 🌎 since 2009
 - 👀 My interests:Coding , Maths,Art.
 - 🙂I am an 8th grade  student of Carmel school , BokaroThermal.
