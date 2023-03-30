@@ -7,7 +7,7 @@
 - 🙂I am a 9th grade  student of Carmel school , BokaroThermal.
 - 👩‍💻Advanced Frontend Developer(Well, Junior!!)
 - Trying my hand at Java💻
-- Well!  Quite incative here😕.
+- Well!  Quite inactive here😕.
 - 💻Currently learning the concepts of Neural Networks [AI and ML using js libraries(posenet,mobile net and APIs).
 - 🤓And yes, I am Certified by White hat Jr.(Course done for 1 1/2 years.)
 - Tools and Languages:
