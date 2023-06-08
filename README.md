@@ -3,7 +3,7 @@
 
 - Hello Folks , I’m <a href="https://vaibhavikarn2001.github.io/Portfolio-Websiteee/">Vaibhavi Karn </a>
 -  👧I have been living on planet 🌎 since 2009
-- 👀 My interests:Coding , Maths,Art,Dance.
+- 👀 My interests:Coding , Maths,Art,Dance,Cricket.
 - 🙂I am a 9th grade  student of Carmel school , BokaroThermal.
 - 👩‍💻Advanced Frontend Developer(Well, Junior!!)
 - Trying my hand at Java💻
